@@ -1,0 +1,22 @@
+# 运行环境
+.venv/
+__pycache__/
+*.py[cod]
+
+# 运行时数据：模型、下载的音频、提取结果、登录凭证
+runtime/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+.tmp_test/
+.tmp_speech.wav
+.probe.wav
